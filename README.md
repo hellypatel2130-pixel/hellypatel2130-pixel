@@ -32,22 +32,7 @@
   <img src="https://skillicons.dev/icons?i=java,spring,js,react,html,css,cs,dotnet,nodejs,express,mysql,mongodb,git,github,vscode,idea&perline=8" />
 </p>
 
----
 
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hellypatel2130-pixel&show_icons=true&theme=omni&hide_border=true&border_radius=15" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellypatel2130-pixel&layout=compact&theme=omni&hide_border=true&border_radius=15" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=omni&hide_border=true&border_radius=15" />
-</p>
-
----
 
 ## 🌱 Goals
 
