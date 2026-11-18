@@ -25,13 +25,49 @@
 - 🌸 Growing every day, one line of code at a time!
 
 ---
-
 ## 💻 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,react,html,css,cs,dotnet,nodejs,express,mysql,mongodb,git,github,vscode,idea&perline=8" />
-</p>
+### 👩‍💻 Programming Languages
 
+\<p align="left">   \<img src="[https://skillicons.dev/icons?i=java,python,mysql&perline=8](https://skillicons.dev/icons?i=java,python,mysql\&perline=8)" /> \</p>
+
+### ⚙️ Backend Development
+
+\<p align="left">   \<img src="[https://skillicons.dev/icons?i=spring,hibernate,postman,fastapi&perline=8](https://skillicons.dev/icons?i=spring,hibernate,postman,fastapi\&perline=8)" /> \</p>
+
+### 🎨 Frontend Development
+
+\<p align="left">   \<img src="[https://skillicons.dev/icons?i=react,js,ts,html,css&perline=8](https://skillicons.dev/icons?i=react,js,ts,html,css\&perline=8)" /> \</p>
+
+### 🗄️ Databases & Caching
+
+\<p align="left">   \<img src="[https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&perline=8](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis\&perline=8)" /> \</p>
+
+### ☁️ Cloud & DevOps
+
+\<p align="left">   \<img src="[https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions&perline=8](https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions\&perline=8)" /> \</p>
+
+### 🤖 AI & RAG Engineering
+
+\<p align="left">   \<img src="[https://skillicons.dev/icons?i=python&perline=8](https://skillicons.dev/icons?i=python\&perline=8)" /> \</p>
+
+**AI Technologies:** RAG • LangChain • LangGraph • LlamaIndex • Embeddings • Vector Databases • Semantic Search
+
+### 🏗️ System Design & Distributed Systems
+
+**Technologies:** Apache Kafka • RabbitMQ • Microservices • Distributed Systems • HLD • LLD • Caching
+
+### 🧪 Testing & Development Tools
+
+\<p align="left">
+&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,postman,idea,vscode&perline=8](https://skillicons.dev/icons?i=git,github,postman,idea,vscode\&perline=8)" />
+\</p>
+
+**Testing:** JUnit 5 • Mockito • Swagger/OpenAPI
+
+### 🧠 Computer Science Fundamentals
+
+**Core Concepts:** Data Structures & Algorithms • OOP • DBMS • Operating Systems • Computer Networks • JVM Internals • Multithreading • Concurrency • Memory Management • Java Streams • Functional Programming
 
 
 ## 🌱 Goals
