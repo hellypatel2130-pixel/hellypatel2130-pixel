@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=F78FB3&center=true&vCenter=true&width=600&lines=Dream+big%2C+code+bigger+%F0%9F%92%BB;Learning+Java+%26+DSA+%E2%98%95;Building+ideas+into+reality+%F0%9F%8C%B7;Future+Software+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=F78FB3&center=true&vCenter=true&width=600&lines=Dream+big%2C+code+bigger+%F0%9F%92%BB;Learning+Java+%26+DSA+%E2%98%95;Building+ideas+into+reality+%F0%9F%8C%B7;Software+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,38 +18,46 @@
 ## 🌷 About Me
 
 - 🎓 Computer Engineering student | Class of 2028
-- ☕ Currently learning **Java, DSA & Spring Boot**
 - 💻 Interested in full-stack development and backend engineering
 - 🚀 Building projects that solve real-world problems
 - 🎨 Love creativity, design, and exploring new ideas
 - 🌸 Growing every day, one line of code at a time!
 
 ---
+
 ## 💻 Tech Stack
 
 ### 👩‍💻 Programming Languages
-
-\<p align="left">   \<img src="[https://skillicons.dev/icons?i=java,python,mysql&perline=8](https://skillicons.dev/icons?i=java,python,mysql\&perline=8)" /> \</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,mysql&perline=8" />
+</p>
 
 ### ⚙️ Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,fastapi&perline=8" />
+</p>
 
-\<p align="left">   \<img src="[https://skillicons.dev/icons?i=spring,hibernate,postman,fastapi&perline=8](https://skillicons.dev/icons?i=spring,hibernate,postman,fastapi\&perline=8)" /> \</p>
+**Technologies:** Spring Boot • Spring MVC • Spring Security • Hibernate • REST APIs • Microservices
 
 ### 🎨 Frontend Development
-
-\<p align="left">   \<img src="[https://skillicons.dev/icons?i=react,js,ts,html,css&perline=8](https://skillicons.dev/icons?i=react,js,ts,html,css\&perline=8)" /> \</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css&perline=8" />
+</p>
 
 ### 🗄️ Databases & Caching
-
-\<p align="left">   \<img src="[https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&perline=8](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis\&perline=8)" /> \</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&perline=8" />
+</p>
 
 ### ☁️ Cloud & DevOps
-
-\<p align="left">   \<img src="[https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions&perline=8](https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions\&perline=8)" /> \</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions&perline=8" />
+</p>
 
 ### 🤖 AI & RAG Engineering
-
-\<p align="left">   \<img src="[https://skillicons.dev/icons?i=python&perline=8](https://skillicons.dev/icons?i=python\&perline=8)" /> \</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python&perline=8" />
+</p>
 
 **AI Technologies:** RAG • LangChain • LangGraph • LlamaIndex • Embeddings • Vector Databases • Semantic Search
 
@@ -58,22 +66,15 @@
 **Technologies:** Apache Kafka • RabbitMQ • Microservices • Distributed Systems • HLD • LLD • Caching
 
 ### 🧪 Testing & Development Tools
-
-\<p align="left">
-&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,postman,idea,vscode&perline=8](https://skillicons.dev/icons?i=git,github,postman,idea,vscode\&perline=8)" />
-\</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode&perline=8" />
+</p>
 
 **Testing:** JUnit 5 • Mockito • Swagger/OpenAPI
-
-### 🧠 Computer Science Fundamentals
-
-**Core Concepts:** Data Structures & Algorithms • OOP • DBMS • Operating Systems • Computer Networks • JVM Internals • Multithreading • Concurrency • Memory Management • Java Streams • Functional Programming
-
 
 ## 🌱 Goals
 
 - [ ] Master Java and Data Structures & Algorithms
-- [ ] Build and deploy PaisaWise
 - [ ] Improve backend development skills
 - [ ] Solve coding problems consistently
 - [ ] Contribute to open source
